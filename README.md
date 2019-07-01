@@ -1,3 +1,7 @@
+#Вступление 
+
+Это репазиторий я создал в качестве практики по урокам юрия артюха
+
 #How to use
 
 Clone this repo and then in command line type:
